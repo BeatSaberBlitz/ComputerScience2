@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"application","c":"Setup","l":"calculateScore()"},{"p":"application","c":"Setup","l":"doTime()"},{"p":"application","c":"Setup","l":"getHighScores()"},{"p":"application","c":"Setup","l":"Setup()","url":"%3Cinit%3E()"}]
