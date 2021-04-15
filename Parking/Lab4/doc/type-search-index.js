@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cs145.parking","l":"ParkedCar"},{"p":"cs145.parking","l":"ParkingMeter"},{"p":"cs145.parking","l":"ParkingTicket"},{"p":"cs145.parking","l":"PoliceOfficer"}]
